@@ -29,6 +29,7 @@ class ContactsViewHolder(var binding: ContactListItemBinding):RecyclerView.ViewH
     val tvEmail= itemView.findViewById<TextView>(R.id.tvEmail)
 }
 
+
 //
 //import android.view.LayoutInflater
 //import android.view.ViewGroup
